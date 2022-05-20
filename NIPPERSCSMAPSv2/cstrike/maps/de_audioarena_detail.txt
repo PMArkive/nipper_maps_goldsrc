@@ -1,0 +1,15 @@
+// Detail texture map file for de_audioarena level
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+nmaa_floor1		detail/dt_grass1		10.0		10.0
+nmaa_grey1		detail/dt_smooth1		10.0		10.0
+nmaa_trim1		detail/dt_smooth1		10.0		10.0
+nmaa_wall1		detail/dt_stone1		10.0		10.0
+nmaa_wall2		detail/dt_stone1		10.0		10.0
+nmaa_wall3		detail/dt_conc			10.0		10.0
+nmaa_wall4		detail/dt_smooth1		10.0		10.0
+nmaa_wall5		detail/dt_brick			10.0		10.0
+nmaa_wall5a		detail/dt_brick			10.0		10.0
+nmaa_wall6		detail/dt_rough1		10.0		10.0
+nmaa_wall7		detail/dt_brick			10.0		10.0
+nmaa_wall8		detail/dt_brick			10.0		10.0

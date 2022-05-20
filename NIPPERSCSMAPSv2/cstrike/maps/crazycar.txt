@@ -1,0 +1,16 @@
+CrazyCar - Fight to the death
+Mapping  by Nathaniel Miller AKA NIPPER
+Textures by: Half-life/Counter-strike
+
+Prefab by Yak_Fighter (truck is modified)
+
+Briefing:
+DONT TAKE THIS MAP SERIOUSLY!
+CTs have the crazycar and Ts have go-carts.
+
+Counter-Terrorists: Kill Ts from the 
+safety of the crazycar
+
+Terrorists: Kill CTs
+
+(Press FIRE to continue)

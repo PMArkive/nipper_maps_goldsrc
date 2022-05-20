@@ -1,0 +1,12 @@
+Credits for cc_mission.wad
+
+Feel free to use these textures in your own maps (and at your own risk) with 
+just two conditions:
+
+-If you use any textures that begin with the prefix “kid_”  
+please put the texture named “kids_credits” somewhere in the map.
+
+-If you use any textures that begin with the prefix “cc_”  
+please put the texture named “cc_NipperCredit” somewhere in the map.
+
+All other cc_mission textures are from TFC wads.

@@ -1,0 +1,19 @@
+// Detail texture map file for dark_island level
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+cr_riverbank		detail/dt_stone1		10.0		10.0
+cxbooksa		detail/dt_smooth1		10.0		10.0
+cxcnstrcttarp		detail/dt_smooth1		10.0		10.0
+ikgrndj			detail/dt_grass1		10.0		10.0
+nm_barkk1		detail/dt_wood1			5.0		5.0
+nmj_bamboo1		detail/dt_wood2			5.0		5.0
+nmj_grasstrock		detail/dt_stone3		5.0		5.0
+nmj_rocks1		detail/dt_stone2		5.0		5.0
+nmj_rockys1		detail/dt_stone3		5.0		5.0
+nmj_treeline1a		detail/dt_smooth1		10.0		10.0
+nmj_treeline2		detail/dt_wood1			5.0		5.0
+nmj_woodz1		detail/dt_wood2			5.0		5.0
+nmt_shipfloor		detail/dt_wood1			5.0		5.0
+pi_ground		detail/dt_grass1		10.0		10.0
+tik_bamceil1		detail/dt_wood2			5.0		5.0
+tik_roof1		detail/dt_fabric2		10.0		10.0

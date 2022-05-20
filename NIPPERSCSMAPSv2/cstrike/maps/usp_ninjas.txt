@@ -1,0 +1,18 @@
+USP Ninjas - Timed Deathmatch
+Mapping  by Nathaniel Miller AKA NIPPER
+maps @ www.geocities.com/nipper14223
+
+An apartment building has been taken 
+over by terrorist-ninjas!  Each team 
+must use their stealth-tactics and 
+ninja-skills to defeat their enemy.
+
+CTs:  Infiltrate the building and 
+eliminate all terrorists before the 
+round time is up.
+
+Ts:  Hide in the shadows and try to 
+ambush the CTs.
+
+
+

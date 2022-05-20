@@ -1,0 +1,17 @@
+Darkmines -  Bomb/Defuse
+
+By Nathaniel Miller AKA NIPPER 
+(nipperproductions@hotmail.com)
+maps at www.geocities.com/nipper14223
+
+-Based on a sketch/idea by Joe (www.joe.to)
+Thanks again to Joe for making the maps by 
+the spawns.
+
+CTs are mining for supercrates and have
+found 6 of them so far.  They have split 
+them up into stacks of 3 on separate sides 
+of the mine.
+
+Ts must blow up the supercrates.
+

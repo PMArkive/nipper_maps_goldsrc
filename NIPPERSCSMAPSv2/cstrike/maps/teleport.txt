@@ -1,0 +1,11 @@
+teleport - Diffusion
+Mapping  by Nathaniel Miller AKA NIPPER
+maps @ www.geocities.com/nipper14223
+
+The update to "teleportS"
+
+Ts:  bomb either room number 10 or 
+the PORT room.
+
+CTs:  Dont let the Ts bomb the PORT 
+room or room number 10.

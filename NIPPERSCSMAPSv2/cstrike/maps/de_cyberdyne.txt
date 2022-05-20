@@ -1,0 +1,18 @@
+Cyberdyne  -  Bomb/Defuse
+
+By Nathaniel Miller AKA NIPPER 
+(nipperproductions@hotmail.com)
+maps at www.geocities.com/nipper14223
+
+In order to prevent the creation of the
+terminators and to stop judgment day
+from happening the Ts have gone back
+in time to blow up the Cyberdyne building.
+
+CTs hurry inside and stop the Ts from 
+planting the bomb.
+
+NOTE: The door to the bombsite near the T
+spawn has a 14 second delay before it will 
+be blown open.  It is triggered by walking 
+up to it.

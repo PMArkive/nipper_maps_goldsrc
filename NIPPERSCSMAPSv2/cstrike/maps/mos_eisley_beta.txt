@@ -1,0 +1,11 @@
+Mos Eisley Beta - Hostage rescue
+Mapping  by Nathaniel Miller AKA NIPPER
+maps @ www.geocities.com/nipper14223
+
+CT: bring the hostages back to the falcon.
+
+T: stop them
+
+NOTE: I didnt run vis (bad r_speeds)
+
+(Sorry ABOUT the mess)
